@@ -1,0 +1,15 @@
+{
+  "name": "backenddevlopment",
+  "version": "1.0.0",
+  "description": "This is a project for backend dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "erum azam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
